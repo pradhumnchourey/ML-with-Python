@@ -1,6 +1,13 @@
 # ML-with-Python
-This repository contains some of my Machine Learning codes and assignments using Python.  
-Algorithms and topics covered in this repository are:  
+
+## Description
+This repository contains the code for a machine learning project implemented in Python. The project focuses on data analysis and prediction using various machine learning algorithms.  
+Firstly import all the relevant libraries and the dataset. After that perform exploratory data analysis, data manipulation and preprocessing to insure high quality input for machine learning algorithms.  
+Generating and implementing various machine learning models using Python. Evaluating and fine-tuning machine learning models to improve their predictive accuracy and performance. Utilizing Python's visualization libraries to effectively communicate findings and present data-driven recommendations.  
+  
+The code provided in this repository includes the necessary scripts and modules required to train and evaluate the machine learning models. Also the links to datasets are provided. 
+
+ML Algorithms used in the projects are:  
 1. Logictic Regression
 2. Linear Regression
 3. Random Forest Regression
